@@ -53,8 +53,10 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?reginasu=YOUR-GITHUB-reginasu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?reginasu=YOUR-GITHUB-reginasu&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=reginasu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginasu&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
