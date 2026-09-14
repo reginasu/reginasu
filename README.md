@@ -52,4 +52,4 @@
 ## 📫 聯繫方式 (Connect with Me)
 
 - ✉️ **Email**: pythonsu2026@gmail.com
-- 🌐 **Portfolio**: [Your Portfolio / [Streamlit App Link](https://adinsight.streamlit.app/)]
+- 🌐 **Portfolio**: [[Your Portfolio](https://reginasu.github.io/BloomInsight/) / [Streamlit App Link](https://adinsight.streamlit.app/)]
