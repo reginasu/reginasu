@@ -44,6 +44,7 @@
 ## 🏆 精選專案作品 (Featured Projects)
 
 ### 🌸 [BloomInsight] 社群廣告成效診斷與預算最佳化專案
+ https://youtu.be/BPzU9uHhfms
 - **專案簡介**：針對跨平台社群廣告（Meta / Google Ads）進行轉化漏斗與 ROAS 診斷，提供動態預算重配依據。
 - **核心技術**：Power BI / DAX / Python (Pandas)
   - 運用 DAX 撰寫動態加權指標（ROAS、CPA、CVR），建立雙頁式 Power BI 動態戰情室。
